@@ -1,0 +1,1 @@
+Helal, Ahmed E., et al. "AutoMatch: An automated framework for relative performance estimation and workload distribution on heterogeneous HPC systems." 2017 IEEE International Symposium on Workload Characterization (IISWC). IEEE, 2017.;https://ieeexplore.ieee.org/abstract/document/8167754;14

@@ -1,0 +1,9 @@
+Gao, Yanjie, et al. "Estimating gpu memory consumption of deep learning models." Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering. 2020.;https://dl.acm.org/doi/abs/10.1145/3368089.3417050;106
+
+Qi, Hang, Evan R. Sparks, and Ameet Talwalkar. "Paleo: A performance model for deep neural networks." International Conference on Learning Representations. 2016.;https://openreview.net/forum?id=SyVVJ85lg;201
+
+Wang, Mengdi, et al. "Characterizing deep learning training workloads on alibaba-pai." 2019 IEEE international symposium on workload characterization (IISWC). IEEE, 2019.;https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9042047;46
+
+Gu, Jiazhen, et al. "Deepprof: Performance analysis for deep learning applications via mining gpu execution patterns." arXiv preprint arXiv:1707.03750 (2017).;https://arxiv.org/abs/1707.03750;20
+
+Venkataraman, Shivaram, et al. "Ernest: Efficient performance prediction for {Large-Scale} advanced analytics." 13th USENIX Symposium on Networked Systems Design and Implementation (NSDI 16). 2016.;https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-venkataraman.pdf;584
